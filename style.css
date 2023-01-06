@@ -257,6 +257,7 @@
 }
 
 #email{
+    border: 1px solid white;
     width: 325px;
     height: 64px;
     background: #151414;
