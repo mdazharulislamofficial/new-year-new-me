@@ -45,10 +45,12 @@
     background: #F15B22;
     border-radius: 5px;
     color: white;
+    border: 0;
 }
 
 /* Header Section End */
 
+/* Person info Section Start  */
 
 .person-info{
     display: flex;
@@ -89,9 +91,9 @@
 .person-speech-points{
     color: #444343;
 }
+/* Person info Section End */
 
-
-/* My Plans Container Start  */
+/* My Plans Container Section Start  */
 
 .my-plans-title{
     font-weight: 700;
@@ -137,6 +139,7 @@
 /* My Plans Container End */
 
 
+/* Consult Section Start  */
 
 .consult{
     background-image: 
@@ -164,9 +167,12 @@
     color: #F15B22;
     font-weight: 600;
     font-size: 20px;
+    border: 0;
 }
 
 /* Consult Section end  */
+
+/* My Vision Section Start  */
 
 .my-vision{
     width: 1600px;
@@ -207,6 +213,10 @@
     margin-top: 24px;
     margin-bottom: 16px;
 }
+
+/* My Vision Section End  */
+
+/* Footer Section Start  */
 
 .footer-container{
      display: flex;
@@ -275,3 +285,5 @@
     color: #F15B22;
     margin-top: 16px;
 }
+
+/* Footer Section End  */
