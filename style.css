@@ -15,7 +15,6 @@
 }
 
 .banner-info{
-    
     text-align: right;
     padding-right: 230px;
     padding-top: 216px;
@@ -29,6 +28,7 @@
 }
 
 .banner-description{
+    color: #444343;;
     margin-top: 24px;
     margin-bottom: 32px;
     font-weight: 400;
@@ -47,3 +47,48 @@
 }
 
 /* Header Section End */
+
+main{
+    background-color: gainsboro;
+}
+
+
+.person-info{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.person-image{
+    margin-top: 131px;
+    margin-left: 206px;
+    width: 569px;
+    height: 723.3px;
+}
+
+.person-details{
+    margin-top: 150px;
+    margin-right: 300px;
+    width: 50%;
+    width: 416px;
+    height: 400px;
+}
+
+.person-details-title{
+    font-weight: 700;
+    font-size: 40px;
+    line-height: 47px;
+}
+.person-details-speech{
+    color: #444343;
+    margin-top: 24px;
+    margin-bottom: 16px;
+}
+
+.checkmark{
+    color: green;
+    margin-right: 5px;
+}
+.person-speech-points{
+    color: #444343;
+}
