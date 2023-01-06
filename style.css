@@ -48,11 +48,6 @@
 
 /* Header Section End */
 
-main{
-    background-color: gainsboro;
-}
-
-
 .person-info{
     display: flex;
     align-items: center;
@@ -92,3 +87,49 @@ main{
 .person-speech-points{
     color: #444343;
 }
+
+
+/* My Plans Container Start  */
+
+.my-plans-title{
+    font-weight: 700;
+    font-size: 40px;
+    text-align: center;
+    margin-bottom: 50px;
+}
+.my-plans-container{
+    width: 1141px;
+    height: 299.96px;
+    margin: 130px 230px;
+}
+
+.my-plans{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.plan{
+    display: block;
+    align-items: center;
+    justify-content: center;
+}
+ .plan img{
+   padding-left: 40px;
+    width: 92.96px;
+    height: 92.96px;
+ }
+.plan h4{
+
+    font-weight: 700;
+    font-size: 30px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    text-align: center;
+    
+}
+.plan p{
+    color: #737272;
+    text-align: center;
+}
+
+/* My Plans Container End */
