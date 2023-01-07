@@ -219,6 +219,7 @@
 /* Footer Section Start  */
 
 .footer-container{
+     margin-top: 1750px;
      display: flex;
      background-color: #151414;;
      height: 577px;
